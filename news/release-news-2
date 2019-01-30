@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>From Russia with love - Chivalry: Medieval Warfare server.</title>
+<style type="text/css">
+ html, body {
+    height: 100%;
+}
+html {
+    display: table;
+    margin: auto;
+}
+    body { 
+     margin: 0;
+     padding: 0;
+     background-color: #f0f0f2;
+     font-family: verdana;
+     font-size: 12pt;
+     display: table-cell;
+     vertical-align: middle;
+    }
+    div {
+        width: 70%;
+        margin: 5px auto;
+        padding: 25px 40px;
+        background-color: #fff;
+        border-radius: 1em;
+        line-height: 1.3;
+    }
+   #center { text-align: left; }
+    a:link, a:visited {
+        color: #38488f;
+        text-decoration: none;
+    }
+    @media (max-width: 700px) {
+        body {
+            background-color: #fff;
+        }
+        div {
+            width: auto;
+            margin: 0 auto;
+            border-radius: 0;
+            padding: 1em;
+        }
+    }   
+    .shadow {
+    box-shadow: 0 0 10px rgba(0,0,0,0.5); /* Параметры тени */
+   }
+    </style>    
+</head>
+<body>
+<div id="center" class="shadow">
+
+
+        <p><span style="font-size: 14pt;">В Steam теперь доступна страница Mordhau</span></p>
+
+<p>Последние несколько месяцев мы усердно работали над тем, чтобы завершить все вещи для релиза, исправить все оставшиеся ошибки и добавить необходимую полировку и контент, где это необходимо. Эта работа будет продолжаться до релиза во втором квартале 2019 года, который, по нашим оценкам, мы достигнем где-то в апреле (в начале, если все пойдет по плану). Взгляд на страницу Steam должен дать вам подсказку о том, чего ожидать от релиза, но я расскажу немного больше. Мы выпустим 3 новых режима, которые, как мы ожидаем, станут главной достопримечательностью.
+</p>
+<p><b>Frontline</b>: режим захвата флага, подобный завоеванию, играемый на больших картах с лошадьми, осадными машинами и хаосом вокруг. Цель состоит в том, чтобы захватить флаги противника в линейном порядке, защищая свои собственные, и всё это достигает кульминации в виде задания, которое необходимо выполнить на вражеской базе.
+</p>
+<p><b>Battle Royale</b>: вы начнёте с кулаками на одной из наших карт, преследуемый кругом, постоянно ползущим все ближе. Найдите лут и броню в сундуках (или на других игроках), чтобы украсить себя и управлять своим здоровьем с помощью собранных бинтов вместо регенерации.
+</p>
+<p><b>Horde</b>: кооперативный режим, для игры с друзьями против волн ИИ, где вы можете приобрести экипировку и броню на своей базе, зачищенной от все более и более сложных волн противников.
+</p>
+<p>И, конечно же, все режимы, которые у нас есть: Deathmatch, Team Deathmatch и режим с одной жизнью на раунд - Skirmish. Мы работали над полировкой множества вещей, таких как ИИ, пользовательский интерфейс, добавляли разблокировки и достижения, отслеживание вашего уровня мастерства, основанное на убийствах/смертях, чтобы иметь возможность помещать игроков на соответствующие сервера, улучшая производительность и т.д. Теперь у нас также есть забавное обучение для новых игроков, через которое они могут пройти, чтобы ознакомиться с игрой. В течение всего этого времени работа над локациями продолжалась, что привело к различным переделкам и расширениям существующих локаций, таких как «Grad» и «Camp», и внедрению «Taiga». У нас есть некоторые локации, все еще находящиеся в стадии разработки и близкие к завершению, но мы не будем задерживать выпуск, если они не будут завершены, то есть они могут появиться вскоре после выпуска.
+</p>
+<p>Наконец, есть некоторые вещи, которые мы не сделали по разным причинам, и мы решили, что не стоит сдерживать релиз из-за этого. Среди целей Kickstarter, которые не будут достигнуты на релизе -   соревновательные состязания 1 на 1 и SDK. Мы сосредоточимся на них после релиза. Еще одна особенность, которой не будет, - это женские персонажи, так как у нас просто не было возможности достаточно уделить времени, поэтому мы рассмотрим введение опции пола после релиза.
+</p>
+<p>Есть также некоторые награды Kickstarter, которые нам нужно завершить, и мы будем заниматься ими перед выпуском по мере продвижения.
+</p>
+<p>Мы будем на связи!
+</p><p>Оригинал: <a href="https://mordhau.com/forum/topic/14006/mordhau-coming-soon-steam-store-page-is-now-live/">https://mordhau.com/forum/topic/14006/mordhau-coming-soon-steam-store-page-is-now-live/</a> 
+</p>
+<br>
+<footer align="middle"><span style="font-size: 10pt;">
+<p>Заглядывайте в наш <a href="https://discord.gg/N3NeGJE">сервер</a> <a href="https://discord.gg/N3NeGJE"><img src="https://discordapp.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg"  width="24" height="24"></a><a href="https://discord.gg/N3NeGJE" ><img src="https://discordapp.com/assets/9babbea9acbfec5302d832bae6c3c184.svg" width="100" height="24"></a>
+<br>
+Просто так, и с любыми вопросами и предложениями.</p>
+<p>Поддержать переводчика и сервер:
+<form  method="POST" action="https://money.yandex.ru/quickpay/confirm.xml" align="middle" > 
+    <input type="hidden" name="receiver" value="410016659106226"> 
+    <input type="hidden" name="quickpay-form" value="donate"> 
+    <input type="hidden" name="targets" value="Поддержка разработчика и сервера"> 
+    <input type="text" placeholder="Комментарий" size="12" name="comment" value=""> 
+    <input type="visible" placeholder="Сумма" size="3" name="sum" value="" data-type="number"> 
+    <label><input type="radio" name="paymentType" value="PC">Я.Деньгами</label> 
+    <label><input type="radio" name="paymentType" value="AC">Картой</label> 
+    <label><input type="radio" name="paymentType" value="MC">С телефона</label> 
+    <br>
+    <input type="submit" value="Перевести"> 
+</form>
+</p>
+<p>Have fun! :-)</p>
+</footer></span>
+ 
+<a href="/mordhau"><- Назад</a>
+</div>
+</body>
+</html>
